@@ -1,0 +1,101 @@
+media:
+  input: assets/uploads
+  output: /assets/uploads
+  rename: safe
+  categories: [image]
+
+content:
+  - name: site
+    label: Website text & About Maya
+    type: file
+    path: content/site.json
+    format: json
+    operations:
+      delete: false
+    fields:
+      - { name: brand_name, label: Brand name, type: string, required: true }
+      - { name: tagline, label: Brand tagline, type: string }
+      - { name: eyebrow, label: Homepage eyebrow, type: string }
+      - { name: hero_title, label: Homepage headline, type: string }
+      - { name: hero_description, label: Homepage description, type: text }
+      - { name: announcement, label: Announcement banner, type: string }
+      - { name: etsy_shop, label: Etsy shop URL, type: string }
+      - { name: instagram_url, label: Instagram URL (optional), type: string }
+      - { name: about_heading, label: About section heading, type: string }
+      - { name: about_intro, label: About section introduction, type: text }
+      - { name: about_text, label: Full About Maya story (blank lines separate paragraphs), type: text }
+      - { name: about_signoff, label: About section closing line, type: string }
+      - { name: about_photo, label: About Maya portrait, type: image }
+      - { name: footer_note, label: Footer message, type: text }
+
+  - name: mysteries
+    label: Murder mystery collection
+    type: file
+    path: content/mysteries.json
+    format: json
+    list: true
+    operations:
+      delete: false
+    fields:
+      - { name: slug, label: Unique URL name (example one-last-toast), type: string, required: true }
+      - { name: title, label: Game title, type: string, required: true }
+      - { name: eyebrow, label: Theme label, type: string }
+      - { name: subtitle, label: Short tagline, type: string }
+      - { name: description, label: Spoiler-free description, type: text }
+      - { name: players, label: Number of players, type: string }
+      - { name: duration, label: Playtime, type: string }
+      - { name: format, label: Physical kit description, type: string }
+      - { name: theme, label: Theme, type: string }
+      - name: status
+        label: Status (first-release or coming-soon)
+        type: select
+        options:
+          values: [first-release, coming-soon]
+      - { name: badge, label: Badge on game card, type: string }
+      - { name: image, label: Game cover artwork or photo, type: image }
+      - { name: image_alt, label: Image description for accessibility, type: string }
+      - { name: etsy_url, label: Specific Etsy listing URL (leave blank until live), type: string }
+      - { name: featured, label: Featured game, type: boolean }
+      - { name: what_is_included, label: What's in the kit (one line per item), type: string, list: true }
+      - { name: detail_note, label: Product detail disclaimer / note, type: text }
+
+  - name: reviews
+    label: Customer reviews
+    type: file
+    path: content/reviews.json
+    format: json
+    list: true
+    operations:
+      delete: false
+    fields:
+      - { name: quote, label: Exact review text, type: text, required: true }
+      - { name: author, label: Customer display name, type: string, required: true }
+      - { name: source, label: Source (example Etsy), type: string }
+      - { name: stars, label: Stars (1-5), type: number }
+      - { name: approved, label: Approved to publish (only real reviews), type: boolean }
+
+  - name: gallery
+    label: Gallery photos
+    type: file
+    path: content/gallery.json
+    format: json
+    list: true
+    operations:
+      delete: false
+    fields:
+      - { name: image, label: Photo, type: image, required: true }
+      - { name: caption, label: Caption, type: string }
+      - { name: alt, label: Description for accessibility, type: string }
+      - { name: approved, label: Permission confirmed / publish photo, type: boolean }
+
+  - name: faqs
+    label: Frequently asked questions
+    type: file
+    path: content/faqs.json
+    format: json
+    list: true
+    operations:
+      delete: false
+    fields:
+      - { name: question, label: Question, type: string, required: true }
+      - { name: answer, label: Answer, type: text, required: true }
