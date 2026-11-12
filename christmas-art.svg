@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="t">
+<title id="t">A Christmas Mystery, illustrative evergreen holiday mystery teaser</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112b28"/><stop offset=".5" stop-color="#28453c"/><stop offset="1" stop-color="#132622"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><rect x="35" y="35" width="730" height="930" fill="none" stroke="#d3b77f" stroke-width="2"/><rect x="49" y="49" width="702" height="902" fill="none" stroke="#d3b77f" stroke-opacity=".5"/>
+<g fill="none" stroke="#d3b77f" stroke-width="2" stroke-opacity=".8"><path d="M400 250v350"/><path d="M400 265l-105 110h60l-110 118h65l-90 105h360l-90-105h65l-110-118h60z"/><path d="M240 600h320M260 620h280"/><path d="M400 190l13 34 36 3-28 23 9 35-30-19-30 19 9-35-28-23 36-3z"/></g>
+<g fill="#e6d4ae" font-family="Georgia,serif" text-anchor="middle"><text x="400" y="126" font-size="20" letter-spacing="7">MAYA'S MURDER MYSTERIES</text><text x="400" y="714" font-size="27" letter-spacing="8">A NEW CASE IS COMING</text><text x="400" y="796" font-size="76">A Christmas</text><text x="400" y="875" font-size="84" font-style="italic">Mystery</text></g>
+</svg>

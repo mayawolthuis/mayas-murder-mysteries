@@ -1,0 +1,45 @@
+[
+  {
+    "slug": "one-last-toast",
+    "title": "One Last Toast",
+    "eyebrow": "A LAKE COMO WEDDING MYSTERY",
+    "subtitle": "A wedding to remember. A secret worth killing for.",
+    "description": "The champagne is chilled. The guest list is impeccable. And behind the romance of an Italian villa wedding, everyone has something to hide. When the celebration takes a deadly turn, your guests must unravel the secrets before the final accusation.",
+    "players": "10 players, including the host",
+    "duration": "Playtime to be confirmed",
+    "format": "Physical, printed party kit",
+    "theme": "Wedding",
+    "status": "first-release",
+    "badge": "FIRST RELEASE",
+    "image": "/assets/one-last-toast-art.svg",
+    "image_alt": "Illustrative One Last Toast cover artwork in burgundy and gold",
+    "etsy_url": "",
+    "featured": true,
+    "what_is_included": [
+      "10 character booklets with secrets and role instructions",
+      "Host playbook and game instructions",
+      "Character invitations and name tags",
+      "Sealed evidence packets and final reveal"
+    ],
+    "detail_note": "Final packaging, contents, and playtime will be confirmed before launch. The cover image is illustrative artwork, not a photograph of the finished kit."
+  },
+  {
+    "slug": "christmas-mystery",
+    "title": "A Christmas Mystery",
+    "eyebrow": "THE NEXT CASE IS BREWING",
+    "subtitle": "The most wonderful time of the year. Until it isn't.",
+    "description": "A new holiday mystery is in the works. Expect festive atmosphere, an unforgettable guest list, and a few secrets no one wants found under the tree. More details are coming soon.",
+    "players": "To be announced",
+    "duration": "To be announced",
+    "format": "Planned physical party kit",
+    "theme": "Holiday",
+    "status": "coming-soon",
+    "badge": "COMING SOON",
+    "image": "/assets/christmas-art.svg",
+    "image_alt": "Illustrative Christmas mystery teaser with evergreen and gold typography",
+    "etsy_url": "",
+    "featured": false,
+    "what_is_included": [],
+    "detail_note": "Working title and concept art. Story details and kit contents are not finalized."
+  }
+]

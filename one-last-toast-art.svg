@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="t">
+<title id="t">One Last Toast, illustrative burgundy wedding mystery cover art</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2b1824"/><stop offset=".55" stop-color="#682b42"/><stop offset="1" stop-color="#281a25"/></linearGradient><radialGradient id="glow"><stop stop-color="#d5a777" stop-opacity=".25"/><stop offset="1" stop-color="#d5a777" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><circle cx="400" cy="450" r="390" fill="url(#glow)"/>
+<rect x="35" y="35" width="730" height="930" rx="1" fill="none" stroke="#d8b788" stroke-width="2"/><rect x="49" y="49" width="702" height="902" fill="none" stroke="#d8b788" stroke-opacity=".45"/>
+<g stroke="#d8b788" stroke-opacity=".55" fill="none" stroke-width="2"><path d="M170 420h460M205 435h390"/><path d="M175 700q225-70 450 0"/><path d="M220 310q180-90 360 0"/><path d="M245 275q155-90 310 0"/></g>
+<g fill="none" stroke="#d8b788" stroke-width="3"><path d="M280 680l-33-186h115l-33 186zM466 680l-33-186h115l-33 186z"/><path d="M248 494c0-37 25-66 57-66s57 29 57 66M434 494c0-37 25-66 57-66s57 29 57 66"/><path d="M305 428v-75M491 428v-75M285 353h40M471 353h40"/><path d="M305 353l-17-20M305 353l17-20M491 353l-17-20M491 353l17-20"/></g>
+<g fill="#ead2ad" font-family="Georgia,serif" text-anchor="middle"><text x="400" y="135" font-size="20" letter-spacing="7">MAYA'S MURDER MYSTERIES</text><text x="400" y="225" font-size="25" letter-spacing="8">A LAKE COMO MYSTERY</text><text x="400" y="783" font-size="86">One Last</text><text x="400" y="867" font-size="104" font-style="italic">Toast</text></g>
+<path d="M350 915h100" stroke="#d8b788" stroke-width="2"/><circle cx="400" cy="915" r="5" fill="#d8b788"/>
+</svg>

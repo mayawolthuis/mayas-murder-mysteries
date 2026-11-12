@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 230" role="img" aria-labelledby="title">
+<title id="title">Maya's Murder Mysteries MMM crest</title>
+<g fill="none" stroke="#cba875">
+<path stroke-width="2" d="M110 12C150 12 184 26 194 59c13 43-8 99-84 153C34 158 13 102 26 59 36 26 70 12 110 12Z"/>
+<path stroke-width=".8" d="M110 22c36 0 66 12 75 41 11 38-9 88-75 137C44 151 24 101 35 63c9-29 39-41 75-41Z"/>
+<path d="M73 61h74M72 150h76" stroke-width=".8"/>
+<path d="M110 39l5 10 11 3-11 3-5 10-5-10-11-3 11-3z" fill="#cba875" stroke="none"/>
+<path d="M110 141l4 7-4 7-4-7z" fill="#cba875" stroke="none"/>
+<path d="M51 110l8-5 8 5-8 5zM153 110l8-5 8 5-8 5z" fill="#cba875" stroke="none"/>
+</g>
+<text x="110" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="47" text-anchor="middle" fill="#ead4ad" letter-spacing="-4">MMM</text>
+</svg>
