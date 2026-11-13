@@ -11,7 +11,7 @@
     "theme": "Wedding",
     "status": "first-release",
     "badge": "FIRST RELEASE",
-    "image": "/assets/uploads/one-last-toast-1.png",
+    "image": "/assets/uploads/1.png",
     "image_alt": "Illustrative One Last Toast cover artwork in burgundy and gold",
     "featured": true,
     "what_is_included": [
@@ -20,8 +20,7 @@
       "Character invitations and name tags",
       "Sealed evidence packets and final reveal"
     ],
-    "detail_note": "Final packaging, contents, and playtime will be confirmed before launch. The cover image is illustrative artwork, not a photograph of the finished kit.",
-    "product_photos": []
+    "detail_note": "Final packaging, contents, and playtime will be confirmed before launch. The cover image is illustrative artwork, not a photograph of the finished kit."
   },
   {
     "slug": "christmas-mystery",
@@ -35,10 +34,9 @@
     "theme": "Holiday",
     "status": "coming-soon",
     "badge": "COMING SOON",
-    "image": "/assets/uploads/one-last-toast-2.png",
+    "image": "/assets/uploads/2.png",
     "image_alt": "Illustrative Christmas mystery teaser with evergreen and gold typography",
     "featured": false,
-    "detail_note": "Working title and concept art. Story details and kit contents are not finalized.",
-    "product_photos": []
+    "detail_note": "Working title and concept art. Story details and kit contents are not finalized."
   }
 ]
