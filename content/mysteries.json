@@ -11,9 +11,8 @@
     "theme": "Wedding",
     "status": "first-release",
     "badge": "FIRST RELEASE",
-    "image": "/assets/one-last-toast-art.svg",
+    "image": "/assets/uploads/one-last-toast.png",
     "image_alt": "Illustrative One Last Toast cover artwork in burgundy and gold",
-    "etsy_url": "",
     "featured": true,
     "what_is_included": [
       "10 character booklets with secrets and role instructions",
@@ -37,9 +36,7 @@
     "badge": "COMING SOON",
     "image": "/assets/christmas-art.svg",
     "image_alt": "Illustrative Christmas mystery teaser with evergreen and gold typography",
-    "etsy_url": "",
     "featured": false,
-    "what_is_included": [],
     "detail_note": "Working title and concept art. Story details and kit contents are not finalized."
   }
 ]
