@@ -13,6 +13,11 @@
     "badge": "FIRST RELEASE",
     "image": "/assets/uploads/1.png",
     "image_alt": "Illustrative One Last Toast cover artwork in burgundy and gold",
+    "product_photos": [
+      {
+        "image": "/assets/uploads/murder-mystery-party-clara.png"
+      }
+    ],
     "featured": true,
     "what_is_included": [
       "10 character booklets with secrets and role instructions",
