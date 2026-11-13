@@ -9,10 +9,22 @@
   },
   {
     "image": "/assets/uploads/dsc0428original.jpeg",
-    "approved": false
+    "approved": true
   },
   {
     "image": "/assets/uploads/dsc0444original.jpeg",
-    "approved": false
+    "approved": true
+  },
+  {
+    "image": "/assets/uploads/1004015.jpeg",
+    "approved": true
+  },
+  {
+    "image": "/assets/uploads/1004051.jpeg",
+    "approved": true
+  },
+  {
+    "image": "/assets/uploads/1004096.jpeg",
+    "approved": true
   }
 ]
