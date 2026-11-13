@@ -20,7 +20,8 @@
       "Character invitations and name tags",
       "Sealed evidence packets and final reveal"
     ],
-    "detail_note": "Final packaging, contents, and playtime will be confirmed before launch. The cover image is illustrative artwork, not a photograph of the finished kit."
+    "detail_note": "Final packaging, contents, and playtime will be confirmed before launch. The cover image is illustrative artwork, not a photograph of the finished kit.",
+    "product_photos": []
   },
   {
     "slug": "christmas-mystery",
@@ -37,6 +38,7 @@
     "image": "/assets/uploads/one-last-toast-2.png",
     "image_alt": "Illustrative Christmas mystery teaser with evergreen and gold typography",
     "featured": false,
-    "detail_note": "Working title and concept art. Story details and kit contents are not finalized."
+    "detail_note": "Working title and concept art. Story details and kit contents are not finalized.",
+    "product_photos": []
   }
 ]

@@ -7,8 +7,8 @@ A responsive, custom-designed website for **Maya's Murder Mysteries**. Designed 
 - `index.html` — homepage, mysteries, how it works, About Maya, gallery, reviews, FAQs
 - `mystery.html` — automatically populated detail page for each mystery, e.g. `mystery.html?slug=one-last-toast`
 - `styles.css` and `app.js` — responsive styling and interactive features
-- `content/site.json` — homepage and About Maya copy, Etsy shop URL
-- `content/mysteries.json` — all mystery listings and Etsy links
+- `content/site.json` — homepage and About Maya copy, Etsy shop URL, editable main homepage image
+- `content/mysteries.json` — all mystery listings, individual product photo galleries, and Etsy links
 - `content/reviews.json` — customer reviews (currently empty)
 - `content/gallery.json` — customer / product photos (currently empty)
 - `content/faqs.json` — FAQs
@@ -36,6 +36,14 @@ Then visit `http://localhost:8000` in your browser. (Opening `index.html` direct
 7. Edit **Website text & About Maya**, **Murder mystery collection**, **Customer reviews**, **Gallery photos**, or **Frequently asked questions** in Pages CMS. Saving commits the changes to GitHub and triggers a Cloudflare Pages redeploy.
 
 Pages CMS and Cloudflare Pages are separate services. This ZIP does **not** automatically publish the site or connect your accounts. Free-tier terms and setup interfaces may change.
+
+## Updating the homepage image and product mockups
+
+- In Pages CMS, open **Website text & About Maya** and change **Large homepage feature image (4:5 portrait)**. Recommended size: 1200 × 1500 px. This image is independent of the cover used on mystery cards.
+- The small `CASE FILE NO. 001` caption under the homepage photo has been removed.
+- To add multiple photos to a mystery, open **Murder mystery collection**, edit that mystery, and use **Additional product photos and mockups** to add a photo, optional caption, and alt text for each. Save changes.
+- The mystery's **Cover image** is always the first image on its detail page; additional images become selectable thumbnails beneath it. Click the large image to enlarge it, and use arrows to browse.
+- These additional photos are separate from the site's general **Gallery photos** section. No mockup photos have been fabricated or added automatically.
 
 ## Adding a new mystery
 
