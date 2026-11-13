@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "image": "/assets/uploads/dsc0390original.jpeg",
+    "approved": true
+  },
+  {
+    "image": "/assets/uploads/dsc0416original.jpeg",
+    "approved": true
+  },
+  {
+    "image": "/assets/uploads/dsc0428original.jpeg",
+    "approved": false
+  },
+  {
+    "image": "/assets/uploads/dsc0444original.jpeg",
+    "approved": false
+  }
+]
